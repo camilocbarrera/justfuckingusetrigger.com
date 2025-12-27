@@ -347,6 +347,7 @@ export const generateReport = task({
             <p className="mb-4 leading-relaxed">
               Inspired by{' '}
               <a href="https://justfuckingusetailwind.com" target="_blank" rel="noopener noreferrer" className="hover:text-muted-foreground transition-colors">justfuckingusetailwind.com</a>,{' '}
+              <a href="https://justfuckingusevercel.com" target="_blank" rel="noopener noreferrer" className="hover:text-muted-foreground transition-colors">justfuckingusevercel.com</a>,{' '}
               <a href="https://motherfuckingwebsite.com" target="_blank" rel="noopener noreferrer" className="hover:text-muted-foreground transition-colors">motherfuckingwebsite.com</a>,{' '}
               <a href="https://bettermotherfuckingwebsite.com" target="_blank" rel="noopener noreferrer" className="hover:text-muted-foreground transition-colors">bettermotherfuckingwebsite.com</a>,{' '}
               and the motherfucking website family.
