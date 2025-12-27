@@ -354,6 +354,7 @@ export const generateReport = task({
             <p className="mb-4">
               Built by{' '}
               <a href="https://x.com/camilocbarrera" target="_blank" rel="noopener noreferrer" className="hover:text-muted-foreground transition-colors">Cris</a>.
+            inspired by my Trigger.dev mentor <a href="https://cueva.io/" target="_blank" rel="noopener noreferrer" className="hover:text-muted-foreground transition-colors">cueva.io</a>
             </p>
             <a
               href="https://github.com/camilocbarrera/justfuckingusetrigger.com"
